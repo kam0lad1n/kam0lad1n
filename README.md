@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamoladdin Jumanazarov</h1>
-<h3 align="center">A junior backEnd developer from Uzbekistan</h3>
+<h3 align="center">I'm BackEnd developer 👨🏼‍💻</h3>
 
 - 🔭 I’m currently working on **OOPModules**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://t.me/kamoladdinjumanazarov](https://t.me/kamoladdinjumanazarov)
 
-- 📫 How to reach me **nagap7823@gmail.com**
+- 📫 How to reach me ***nagap7823@gmail.com***
 
 - ⚡ Fun fact **I think i'm funny**
 
