@@ -30,12 +30,13 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kam0lad1n" alt="kam0lad1n" /></a> </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/kam0lad1n"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kam0lad1n" /></a></p><br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kam0lad1n&show_icons=true&locale=en&layout=compact" alt="kam0lad1n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kam0lad1n&show_icons=true&locale=en" alt="kam0lad1n" /></p>
+
 <h2>Working Time - Everyday, Every time, 24/7</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kam0lad1n&label=Profile%20views&color=0e75b6&style=flat" alt="kam0lad1n" /> </p>
-
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/kam0lad1n"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kam0lad1n" /></a></p><br><br>
