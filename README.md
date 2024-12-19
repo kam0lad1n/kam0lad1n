@@ -8,10 +8,13 @@
 - 🌱 I’m currently learning **`OOP`&`Django`&`Flask`&`Java`&`Spring`&`Linux`&`Git`&`Github`**
 
 - 👨‍💻 All of my projects are available at [https://kamoladdinjumanazarov.netlify.app](https://kamoladdinjumanazarov.netlify.app)
-
+  
 - 📝 I regularly write articles on [https://t.me/kamoladdinjumanazarov](https://t.me/kamoladdinjumanazarov)
-- 💬 I'm 15-years old developer from  `Khorezm`.`Uzbekistan`  \
-- 📫 Reach me on [![Kamoladdin Jumanazarov](https://img.shields.io/badge/KamoladdinJumanazarov-30302f?style=flat&logo=telegram)](https://t.me/kam0lad1n) \
+  
+- 💬 I'm 15-years old developer from  `Khorezm`.`Uzbekistan`
+  
+- 📫 Reach me on [![Kamoladdin Jumanazarov](https://img.shields.io/badge/KamoladdinJumanazarov-30302f?style=flat&logo=telegram)](https://t.me/kam0lad1n)
+  
 - 📫 How to reach me **nagap7823@gmail.com**
 
 - ⚡ Fun fact **I'm best**
