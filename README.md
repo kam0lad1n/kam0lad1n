@@ -1,30 +1,31 @@
 <h1 align="center">Hi 👋, I'm Kamoladdin Jumanazarov</h1>
-<h3 align="center">I'm BackEnd developer 👨🏼‍💻</h3>
+<h3 align="center">I'm  FullStack developer 👨🏼‍💻</h3>
 <hr>
 
 
-- 🔭 I’m currently working on **ITpark Univerisity and Primary school**
+- 🔭 I’m currently teaching on **ITpark Univerisity, Najot Talim and Primary school**
 
-- 🌱 I’m currently learning **`OOP`&`Django`&`Flask`&`Java`&`Spring`&`Linux`&`Git`&`Github`**
+- 🌱 I’m currently learning **`OOP`&`Django`&`Linux`&`Git`&`Github`&`SQL(PostgeSQL)`&`Excel(Pivot table, Charts)`&`Python(Numpy, Pandas)`**
 
 - 👨‍💻 All of my projects are available at [https://kamoladdinjumanazarov.netlify.app](https://kamoladdinjumanazarov.netlify.app)
   
-- 📝 I regularly write articles on [https://t.me/kamoladdinjumanazarov](https://t.me/kamoladdinjumanazarov)
+- 📝 I regularly write articles on [https://t.me/kamoladdinjumanazarov](https://t.me/j_kamoladdin)
   
-- 💬 I'm 15-years old developer from  `Khorezm`.`Uzbekistan`
+- 💬 I'm 17-years old developer from  `Khorezm`.`Uzbekistan`
   
-- 📫 Reach me on [![Kamoladdin Jumanazarov](https://img.shields.io/badge/KamoladdinJumanazarov-30302f?style=flat&logo=telegram)](https://t.me/kam0lad1n)
+- 📫 Reach me on [![Kamoladdin Jumanazarov](https://img.shields.io/badge/KamoladdinJumanazarov-30302f?style=flat&logo=telegram)](https://t.me/j_kamoladdin)
   
-- 📫 How to reach me **nagap7823@gmail.com**
+- 📫 How to reach me **kamoliddinjumanazarov09@gmail.com**
 
-- ⚡ Fun fact **I'm best**
+- ⚡ Fun fact **As best as I can**
+  
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamoladdinjumanazarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamoladdinjumanazarov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23901578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23901578" height="30" width="40" /></a>
 <a href="https://fb.com/kamoladdinjumanazarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamoladdinjumanazarov" height="30" width="40" /></a>
-<a href="https://instagram.com/kam0lad1n_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kam0lad1n_09" height="30" width="40" /></a>
+<a href="https://instagram.com/jmnzroff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kam0lad1n_09" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@kam0lad1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kam0lad1n" height="30" width="40" /></a>
 </p>
 
