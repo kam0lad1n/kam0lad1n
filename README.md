@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kamoladdinjumanazarov.netlify.app](https://kamoladdinjumanazarov.netlify.app)
   
-- 📝 I regularly write articles on [https://t.me/kamoladdinjumanazarov](https://t.me/j_kamoladdin)
+- 📝 I regularly write articles on [https://t.me/kamoladdinjumanazarov](https://t.me/kmldndev)
   
 - 💬 I'm 17-years old developer from  `Khorezm`.`Uzbekistan`
   
